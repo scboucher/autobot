@@ -21,7 +21,7 @@
     "hubot-shipit": "^0.2.0",
     "jobot-helpful": "0.0.3",
     "jobot-storage-util": "^0.1.4",
-    "jobot-cah": "^0.1.1"
+    "jobot-cah": "^0.1.2"
   },
   "engines": {
     "node": "0.10.x"
