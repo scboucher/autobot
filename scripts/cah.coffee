@@ -547,13 +547,13 @@ answers = [
   "The Make-A-Wish Foundation"
 ]
 
-module.exports = (robot) ->
-  robot.hear /(card me)/i, (msg) ->
-    msg.send msg.random answers
-
-  robot.hear /(card 2)/i, (msg) ->
-    msg.send msg.random answers
-    msg.send msg.random answers
-
-  robot.hear /(q card)/i, (msg) ->
-    msg.send msg.random questions
+#module.exports = (robot) ->
+#  robot.hear /(card me)/i, (msg) ->
+#    msg.send msg.random answers
+#
+#  robot.hear /(card 2)/i, (msg) ->
+#    msg.send msg.random answers
+#    msg.send msg.random answers
+#
+#  robot.hear /(q card)/i, (msg) ->
+#    msg.send msg.random questions
