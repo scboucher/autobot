@@ -1,6 +1,6 @@
 {
-  "name": "sambot",
-  "version": "0.0.0",
+  "name": "samsbot",
+  "version": "0.1.0",
   "private": true,
   "author": "Samuel Boucher <boucher.samuel.c@gmail.com>",
   "description": "Sam's Bot",
@@ -18,7 +18,8 @@
     "hubot-rules": "^0.1.1",
     "hubot-scripts": "^2.16.1",
     "hubot-shipit": "^0.2.0",
-    "jobot-helpful": "0.0.3"
+    "jobot-helpful": "0.0.3",
+    "jobot-storage-util": "^0.1.4"
   },
   "engines": {
     "node": "0.10.x"
