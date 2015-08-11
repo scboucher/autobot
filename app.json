@@ -1,8 +1,8 @@
 {
   "name": "Hubot for HipChat",
-  "description": "A helpful bot for your HipChat group",
-  "repository": "https://github.com/hipchat/triatomic",
-  "logo": "https://raw.githubusercontent.com/hipchat/triatomic/master/logo.png",
+  "description": "Sam's bot for heroku",
+  "repository": "https://github.com/scboucher/sambot",
+  "logo": "https://hubot.github.com/assets/images/layout/hubot-avatar@2x.png",
   "keywords": [
     "hubot",
     "hipchat",
