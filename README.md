@@ -11,7 +11,7 @@ has, etc!
 [heroku]: http://www.heroku.com
 [hubot]: http://hubot.github.com
 [generator-hubot]: https://github.com/github/generator-hubot
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/scboucher/sambot)
+[![Deploy](https://www.herokucdn.com/deploy/button@2x.png)](https://heroku.com/deploy?template=https://github.com/scboucher/sambot)
 
 ### Running sambot Locally
 
