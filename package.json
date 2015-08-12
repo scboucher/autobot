@@ -20,7 +20,7 @@
     "hubot-scripts": "^2.16.1",
     "hubot-shipit": "^0.2.0",
     "jobot-helpful": "0.0.3",
-    "jobot-storage-util": "^0.1.4",
+    "jobot-storage-util": "^0.1.5",
     "jobot-cah": "^0.1.2"
   },
   "engines": {
