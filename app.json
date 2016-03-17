@@ -15,6 +15,10 @@
     "redistogo"
   ],
   "env": {
+    "HUBOT_SLACK_TOKEN":{
+      "description":"slack Token",
+      "required": true
+    },
     "HUBOT_HIPCHAT_JID": {
       "description": "Your bot's Jabber ID which can be found in the XMPP/Jabber settings for your bot's HipChat user account; e.g. 123_456@chat.hipchat.com.",
       "required": true
