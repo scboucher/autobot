@@ -9,5 +9,6 @@
   "hubot-rules",
   "hubot-shipit",
   "jobot-helpful",
-  "jobot-storage-util"
+  "jobot-storage-util",
+  "hubot-catme"
 ]

@@ -6,7 +6,8 @@
   "description": "Sam's Bot",
   "dependencies": {
     "coffee-script": "^1.9.3",
-    "hubot": "^2.14.0",
+    "hubot": "^2.18.0",
+    "hubot-catme": "^1.0.0",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.1.5",
     "hubot-google-translate": "^0.2.0",
@@ -19,10 +20,10 @@
     "hubot-rules": "^0.1.1",
     "hubot-scripts": "^2.16.1",
     "hubot-shipit": "^0.2.0",
-    "jobot-helpful": "0.0.3",
-    "jobot-storage-util": "^0.1.6",
+    "hubot-slack": "^3",
     "jobot-cah": "^0.1.2",
-    "hubot-slack":"^3"
+    "jobot-helpful": "0.0.3",
+    "jobot-storage-util": "^0.1.6"
   },
   "engines": {
     "node": "0.10.x"
