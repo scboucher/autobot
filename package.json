@@ -9,11 +9,10 @@
     "hubot": "^2.18.0",
     "hubot-catme": "^1.0.0",
     "hubot-diagnostics": "0.0.1",
-    "hubot-google-images": "^0.1.5",
+    "hubot-google-images": "^0.2.6",
     "hubot-google-translate": "^0.2.0",
     "hubot-help": "^0.1.1",
-    "hubot-heroku-keepalive": "0.0.4",
-    "hubot-hipchat": "^2.12.0",
+    "hubot-heroku-keepalive": "1.0.2",
     "hubot-maps": "0.0.2",
     "hubot-pugme": "^0.1.0",
     "hubot-redis-brain": "0.0.3",
@@ -24,6 +23,9 @@
     "jobot-cah": "^0.1.2",
     "jobot-helpful": "0.0.3",
     "jobot-storage-util": "^0.1.6"
+  },
+  "scripts": {
+    "clean" :"rm -r node_modules"
   },
   "engines": {
     "node": "0.10.x"
