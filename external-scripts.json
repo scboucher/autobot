@@ -10,5 +10,6 @@
   "hubot-shipit",
   "jobot-helpful",
   "jobot-storage-util",
-  "hubot-catme"
+  "hubot-catme",
+  "hubot-heroku-keepalive"
 ]
