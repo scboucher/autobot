@@ -1,4 +1,4 @@
-[![deps](https://david-dm.org/scboucher/autobot.svg)](https://david-dm.org/scboucher/autobot.svg)
+[![deps](https://david-dm.org/scboucher/autobot.svg)](https://david-dm.org/scboucher/autobot)
 
 # Autobot
 Autobot is a chat bot built on the [Hubot][hubot] framework. It was
