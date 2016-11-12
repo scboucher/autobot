@@ -19,7 +19,7 @@
     "hubot-rules": "^0.1.1",
     "hubot-scripts": "^2.16.1",
     "hubot-shipit": "^0.2.0",
-    "hubot-slack": "^3",
+    "hubot-slack": "^4",
     "jobot-cah": "^0.1.2",
     "jobot-helpful": "0.0.3",
     "jobot-storage-util": "^0.1.6"
