@@ -1,8 +1,28 @@
 {
-  "name": "Sam's Hubot with HipChat",
+  "addons": [
+    "redistogo"
+  ],
   "description": "Sam's bot for heroku",
-  "repository": "https://github.com/scboucher/sambot",
-  "logo": "https://hubot.github.com/assets/images/layout/hubot-avatar@2x.png",
+  "env": {
+    "BUILDPACK_URL": {
+      "description": "Only change this if you are sure you need to.",
+      "required": true,
+      "value": "https://github.com/heroku/heroku-buildpack-nodejs"
+    },
+    "HUBOT_HEROKU_KEEPALIVE_URL": {
+      "description": "Set to use the subdomain of this bot to keep it awake",
+      "required": false,
+      "value": "https://YOUR_BOT_APP.herokuapp.com"
+    },
+    "HUBOT_LOG_LEVEL": {
+      "description": "Set to `debug` to enable detailed debug logging.",
+      "required": false
+    },
+    "HUBOT_SLACK_TOKEN": {
+      "description": "slack Token",
+      "required": true
+    }
+  },
   "keywords": [
     "hubot",
     "bot",
@@ -11,27 +31,7 @@
     "heroku",
     "slack"
   ],
-  "addons": [
-    "redistogo"
-  ],
-  "env": {
-    "HUBOT_SLACK_TOKEN": {
-      "description": "slack Token",
-      "required": true
-    },
-    "HUBOT_LOG_LEVEL": {
-      "description": "Set to `debug` to enable detailed debug logging.",
-      "required": false
-    },
-    "HUBOT_HEROKU_KEEPALIVE_URL": {
-      "value": "https://YOUR_BOT_APP.herokuapp.com",
-      "description": "Set to use the subdomain of this bot to keep it awake",
-      "required": false
-    },
-    "BUILDPACK_URL": {
-      "value": "https://github.com/heroku/heroku-buildpack-nodejs",
-      "description": "Only change this if you are sure you need to.",
-      "required": true
-    }
-  }
+  "logo": "https://hubot.github.com/assets/images/layout/hubot-avatar@2x.png",
+  "name": "Sam's Hubot with HipChat",
+  "repository": "https://github.com/scboucher/sambot"
 }
