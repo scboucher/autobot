@@ -174,7 +174,7 @@ You'll need to edit the `Procfile` to set the name of your hubot.
 More detailed documentation can be found on the [deploying hubot onto
 Heroku][deploy-heroku] wiki page.
 
-### Deploying to UNIX 
+### Deploying to UNIX
 
 If you would like to deploy to either a UNIX operating system.
 Please check out the [deploying hubot onto UNIX][deploy-unix] wiki page.
