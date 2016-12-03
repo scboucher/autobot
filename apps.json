@@ -1,0 +1,11 @@
+{
+  "hubot": {
+    "provider": "heroku",
+    "auto_merge": false,
+    "repository": "scboucher/autobot",
+    "environments": ["production"],
+
+    "heroku_production_name": "dbot-8d"
+  }
+
+}
