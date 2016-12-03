@@ -12,5 +12,6 @@
   "jobot-storage-util",
   "hubot-catme",
   "hubot-heroku-keepalive",
-  "hubot-deploy"
+  "hubot-deploy",
+  "hubot-github-status"
 ]
