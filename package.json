@@ -21,6 +21,7 @@
     "hubot-shipit": "^0.2.0",
     "hubot-slack": "^4",
     "jobot-cah": "^0.1.2",
+    "hubot-deploy": "^0.13.27",
     "jobot-helpful": "0.0.3",
     "jobot-storage-util": "^0.1.6"
   },
